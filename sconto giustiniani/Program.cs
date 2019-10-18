@@ -20,7 +20,7 @@ namespace sconto_giustiniani
             }
             else
             {
-                Console.WriteLine($"l' importo è: {totale}");
+                Console.WriteLine($"l'importo è: {totale}");
                 Console.ReadLine();
             }
             Console.ReadLine();
